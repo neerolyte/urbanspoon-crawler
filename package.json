@@ -1,0 +1,13 @@
+{
+	"name": "urbanspoon-crawl",
+	"description": "a quick and dirty info extractor for urban spoon",
+	"author": "David Schoen <dave@lyte.id.au>",
+	"version": "0.1.0",
+	"dependencies": {
+		"jquery"       : "1.7.x"
+	},
+	"devDependencies": {},
+	"engines": {
+		"node": "0.8.x"
+	}
+}
